@@ -1,7 +1,6 @@
 # Henry Twist
 
-Welcome to my GitHub profile. I am an MMath graduate and software development enthusiast, who spends most of their time with Kotlin. I have a healthy obsession with UI/UX
-which has allowed me to make a small suite of apps and libraries as personal projects in my spare time.
+Recent MMath graduate and tech enthusiast. Currently spending time working with Kotlin, the Android platform and Python. Trying to improve my UI design skills.
 
 ---
 
