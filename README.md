@@ -1,6 +1,6 @@
 # Henry Twist
 
-Recent MMath graduate and tech enthusiast. Currently spending time working with Kotlin, the Android platform and Python. Trying to improve my UI design skills.
+MMath graduate, software engineer and tech enthusiast. Currently spending my time working with C#, Kotlin and the Android platform.
 
 ---
 
