@@ -1,6 +1,6 @@
 # Henry Twist
 
-Software Developer, MMath graduate and tech enthusiast. Currently spending my time working with C#, Kotlin and the Android platform.
+Software developer, MMath graduate and tech enthusiast. Currently spending my time working with C#, Kotlin and the Android platform.
 
 ---
 
